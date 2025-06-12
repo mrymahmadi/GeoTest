@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+#folders
+src/middlewares/validatePolygon.js
